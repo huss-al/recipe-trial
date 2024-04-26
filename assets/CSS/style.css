@@ -69,6 +69,15 @@
     height: 100vh;
 }
 
+.breakfast-mainbody-pic {
+    background: url(https://www.chopchopfamily.org/wp-content/uploads/2023/05/Egg_Sandwich_Beauty-48-500x500.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+
+}
 
 /*----------------------------------------------------- FOOTER */
 
